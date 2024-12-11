@@ -1,8 +1,8 @@
 body{
-    font-size: 16px;
+    font-size: 15px;
 }
 table.danhsach{
-    width: 80%;
+    width: 78%;
     border: 1px solid black ;
     border-collapse: collapse;
     margin: 20px auto;
