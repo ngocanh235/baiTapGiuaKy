@@ -35,7 +35,7 @@ table.search {
     border-collapse: collapse;
 }
 table.search td {
-    width: 40%;
+    width: 30%;
     border: 1px ;
     background-color: rgb(197, 247, 185);
     text-align: center; /* Căn giữa nội dung */
